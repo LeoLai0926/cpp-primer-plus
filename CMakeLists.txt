@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.2)
 
 project(CppPrimePlus)
 
-add_executable(main ch4/example/4.1_arrayone.cpp)
+add_executable(main ch4/example/4.2_string.cpp)
