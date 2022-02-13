@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.2)
 
 project(CppPrimePlus)
 
-add_executable(main ch4/example/4.21_newstruct.cpp)
+add_executable(main ch4/example/4.22_delete.cpp)
