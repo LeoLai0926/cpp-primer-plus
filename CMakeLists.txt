@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.2)
 
 project(CppPrimePlus)
 
-add_executable(main ch5/example/5.8_block.cpp)
+add_executable(main ch5/example/5.9_forstr2.cpp)
