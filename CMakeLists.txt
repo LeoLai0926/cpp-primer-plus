@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.2)
 
 project(CppPrimePlus)
 
-add_executable(main ch5/example/5.12_compstr2.cpp)
+add_executable(main ch5/example/5.13_while.cpp)
