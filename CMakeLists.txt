@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.2)
 
 project(CppPrimePlus)
 
-add_executable(main ch5/example/5.15_dowhile.cpp)
+add_executable(main ch5/example/5.16_textin1.cpp)
