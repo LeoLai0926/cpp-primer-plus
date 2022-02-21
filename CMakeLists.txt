@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.2)
 
 project(CppPrimePlus)
 
-add_executable(main ch5/example/5.17_textin2.cpp)
+add_executable(main ch5/example/5.18_textin3.cpp)
