@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.2)
 
 project(CppPrimePlus)
 
-add_executable(main ch5/exercise/ex7.cpp)
+add_executable(main ch5/exercise/ex8.cpp)
