@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.2)
 
 project(CppPrimePlus)
 
-add_executable(main ch6/example/6.10_switch.cpp)
+add_executable(main ch6/example/6.11_enum.cpp)
