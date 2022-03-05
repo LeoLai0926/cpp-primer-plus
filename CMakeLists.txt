@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.2)
 
 project(CppPrimePlus)
 
-add_executable(main ch7/example/7.2_protos.cpp)
+add_executable(main ch7/example/7.3_twoarg.cpp)
