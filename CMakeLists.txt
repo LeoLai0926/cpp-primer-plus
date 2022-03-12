@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.2)
 
 project(CppPrimePlus)
 
-add_executable(main ch7/example/7.18_fun_ptr.cpp)
+add_executable(main ch7/example/7.19_arfupt.cpp)
