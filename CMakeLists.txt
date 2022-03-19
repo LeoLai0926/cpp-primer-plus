@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.2)
 
 project(CppPrimePlus)
 
-add_executable(main ch8/exercise/ex7.cpp)
+add_subdirectory("ch9/example/9.1")
