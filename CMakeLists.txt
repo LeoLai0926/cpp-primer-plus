@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.2)
 
 project(CppPrimePlus)
 
-add_subdirectory("ch9/example/9.6")
+add_executable(main "ch9/example/9.9_static.cpp")
