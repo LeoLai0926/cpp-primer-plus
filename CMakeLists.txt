@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.16)
 
 project(CppPrimePlus)
 
-add_subdirectory("ch14/example/14.17")
+add_executable(main "ch14/example/14.19.cpp")
